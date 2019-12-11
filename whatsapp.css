@@ -1,0 +1,236 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: white;
+}
+.maindiv{
+    width: 100%;
+    height: 1000px;
+    background-color: white;
+}
+.menu{
+    width:100%;
+    height:60px;
+    display:flex;
+    background-color: rgb(54,151,151);
+    padding-top:25px;
+}      
+.appname{
+    padding-top: 20px;
+    color: white;
+    font-size: 20px;
+    /* margin-left: */
+}
+img{
+    height: 60px;
+    margin-left: 10%;
+
+}
+
+.rightmenu{
+    width: 75%;
+    height:100%;
+    float:right;
+}
+.rightmenu ul{
+    margin-left:200px;
+}
+.rightmenu ul li{
+    display: inline-block;
+    list-style: none;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    line-height:60px;
+    margin-left: 40px;
+    text-transform: uppercase;
+    
+} 
+.secondclass{
+    height: 600px;
+    width: 60%; 
+    margin-top: 50px;
+    margin-left: 20%;
+    display: flex;
+}
+.firstpart{
+    margin-top: 10%;
+    width: 58%;
+    background-color: 
+}
+.paragraph2{
+    margin-top: 6%;
+    color: rgb(63, 58, 58);
+}
+.paragraph3{
+    margin-top: 3%;
+    color: rgb(151, 145, 145);
+}
+.insidediv ul li{
+    list-style: none;
+    padding-left: 10px;
+
+}
+.b{
+    color: white;
+}
+.c{
+    color: white;
+}
+.d{
+    color: white;
+}
+.insidediv ul li img{
+    height: 30px;
+    /* margin-top: 10px; */
+    padding-left: 10%; 
+
+}
+.insidediv ul li i{
+    margin-top: 20px;
+}
+.insidediv ul li i h4{
+    padding-left: 30px;
+}
+/* ul li a{
+text-decoration: underline;
+} */
+.secondpart img{
+    margin-top: 10%;
+    height: 550px;
+}
+
+.insidediv2{
+    width: 100%;
+    background-color: white;
+    height: 50%;
+    display: flex;
+}
+.first{
+    height:330px;
+    width: 50%;
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 10px;
+    background-color: #d0e9ea;
+}
+.first h2{
+    color:black;
+    padding-top: 100px;
+    font-size: 30px;
+}
+.first p span{
+    color: blue;
+
+}
+.first p{
+    margin-left: 10%;
+    padding-right: 45px;
+    font-size: 15px;
+}
+.first br{
+    margin-left: 50px;
+}
+.second_p{
+    margin-top: 20px;
+}
+.second_p span{
+    color: blue;
+}
+.secondimg img{
+    height: 300px;
+    width: 60%;
+    margin-top: 80px;
+    margin-left: 20px;
+    background-color: aquamarine;
+}
+.secondimg{
+    background-color: lavender;
+}
+.listand_images{
+    display: flex;
+} 
+.secondpart1 {
+    height:300 px;
+    width: 50%;
+    text-align: center;
+    /* background-color: #d0e9ea; */
+     background-color:#ECF3FF;
+    margin-top: 20px;
+}
+.roundpic{
+    height:300px;
+    width: 300px;
+    margin-top: 10%;
+    margin-left: 30%;
+
+}
+#p1{
+    margin-left: 30%;
+    margin-top: 5%;
+    font-size: 20px;
+    color: rgb(53, 50, 50);
+}
+#p2{
+    margin-left:25%;
+    font-size: 40px;
+    color: rgb(41, 37, 37);
+}
+#p3{
+    margin-left: 10%;
+    text-align: centre;
+    margin-top: 3%;
+}
+.lastbutton{
+    width: 15%;
+    height: 40px;
+    margin-top: 20%;
+    margin-right: 52%;
+    margin-left: 40%;
+    border-radius: 5px;
+    padding-left: 3%;
+    padding-top: 10px;
+    border-radius: 30px;
+    font-size: 18px;
+    color: #1cb39b;
+    border: 2px solid #77d7c8;
+} 
+
+.fotterdiv{
+    background-color: rgb(49, 48, 48);
+    height: 200px;
+    margin-top: 20px;
+    color: white;
+    display: flex;
+   
+  
+}
+
+.fotterdiv ul{
+    list-style-type: none;
+    padding-top: 20px;
+}
+li{
+    margin-top: 5px;
+    margin-left: 150px;
+}
+span{
+    color: rgb(168, 164, 164);
+}
+.lastdiv{
+    display: flex;
+    height: 40px;
+    width: 100%;
+    background-color: rgb(58, 55, 55);  
+}
+.lastdiv p{
+    margin-left: 140px;
+    color: white;
+}
+a {
+    text-decoration: none;
+}
+
+
